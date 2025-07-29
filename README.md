@@ -26,3 +26,13 @@ Robot Operating System (ROS), RViz, Gazebo, Python, MATLAB, RoboDK, Linux (Ubunt
 
 ### Hardware:
 PincherX 100 Robot Arm from Trossen Robotics, Interbotix ROS Arm Vision Kit, Computer running Ubuntu 22.04
+
+## Citation (BibTeX)
+```bibtex
+@misc{babaiasl2023kinematics,
+  author       = {Madibabaiasl, Madi},
+  title        = {Kinematics of Robotic Arms: A Modern Approach},
+  year         = {2023},
+  howpublished = {\url{https://github.com/madibabaiasl/kinematics-robotic-arms-modern-approach}},
+  note         = {GitHub repository}
+}
