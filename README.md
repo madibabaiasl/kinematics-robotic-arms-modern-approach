@@ -29,10 +29,10 @@ PincherX 100 Robot Arm from Trossen Robotics, Interbotix ROS Arm Vision Kit, Com
 
 ## Citation (BibTeX)
 ```bibtex
-@misc{babaiasl2023kinematics,
-  author       = {Madibabaiasl, Madi},
+@misc{babaiasl2025kinematics,
+  author       = {Babaiasl, Madi},
   title        = {Kinematics of Robotic Arms: A Modern Approach},
-  year         = {2023},
+  year         = {2025},
   howpublished = {\url{https://github.com/madibabaiasl/kinematics-robotic-arms-modern-approach}},
   note         = {GitHub repository}
 }
