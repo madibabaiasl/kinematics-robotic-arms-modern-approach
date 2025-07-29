@@ -19,7 +19,7 @@ The Czech playwright Karel Capek is credited with coining the word "robot" in hi
 
 Note that the material that I will teach is a combination of many sources (some are not listed above and some are developed by myself) and I will give the required text to you. The books above can be used as a reference. Start exploring the course by going to the wiki pages for this course:
 
-[add the link later]
+https://github.com/madibabaiasl/kinematics-robotic-arms-modern-approach/wiki
 
 ### Software Packages and programming languages:
 Robot Operating System (ROS), RViz, Gazebo, Python, MATLAB, RoboDK, Linux (Ubuntu)
