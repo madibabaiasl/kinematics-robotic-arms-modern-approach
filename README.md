@@ -1,15 +1,19 @@
 ## Course Description
 
-The Czech playwright Karel Capek is credited with coining the word "robot" in his 1920 play, R.U.R. (Rossum's Universal Robots), but the concept of robots as machines that can sense, plan, and act has been around for centuries. For example, the ancient Greeks created stories about automatons, which were self-moving machines that could perform tasks. The Unimate was the first industrial robotic arm that was used for welding, painting, and assembly. Since then, robots have been developed for a wide range of other applications, including warehousing & logistics, manufacturing, healthcare, agriculture, construction, cleaning, and even entertainment. Although the field of robotics is still under development (it is an active research area), the basic principles of robot design (modeling, perception, planning, and control) are well understood. In this course, we will use both theory and practice to learn the foundations of robotics (degrees of freedom, orientation, and pose) as well as the kinematics of robotic manipulators (forward, inverse, and velocity kinematics). You will have the opportunity to work with a real robotic arm that is controlled by the Robot Operating System (ROS) to learn about these topics through hands-on experience.
+The Czech playwright Karel Capek is credited with coining the word "robot" in his 1920 play, R.U.R. (Rossum's Universal Robots), but the concept of robots as machines that can sense, plan, and act has been around for centuries. For example, the ancient Greeks created stories about automatons, which were self-moving machines that could perform tasks. The Unimate was the first industrial robotic arm that was used for welding, painting, and assembly. Since then, robots have been developed for a wide range of other applications, including warehousing & logistics, manufacturing, healthcare, agriculture, construction, cleaning, and even entertainment. Although the field of robotics is still under development (it is an active research area), the basic principles of robot design (modeling, perception, planning, and control) are well understood. This course introduces the foundational principles of robotics, including degrees of freedom, orientation, pose, and the kinematics of robotic manipulators (forward, inverse, and velocity kinematics). Students learn these concepts through both theoretical analysis and practical exercises using a robotic arm operated via the Robot Operating System (ROS2).
+
 
 ## Course Objectives
-- You will learn the fundamentals of robot motion (such as tools to express robot position and orientation as well as velocities), forward, inverse, and velocity kinematics.
-- You will be able to integrate your previous knowledge of vectors, matrices, physics, and programming to serve an actual application. 
-- You will be able to translate some of the skills that you will learn, such as screw theory applications in robotics to not only robotic arms but also to other areas of robotics such as soft robots, continuum robots, etc.
-- You will become familiar with enough technical tools (Python, MATLAB, ROS, RoboDK, etc.) to be able to translate your ideas into code and make yourself competitive in the current job market. 
-- You will be able to see how the different components of a robot work individually and together to make the robot move and perform tasks. Specifically, you will be able to use different sensors such as a camera to make the robot understand its environment and use this information to perform the required task by translating a high-level task into a motion plan that the robot can follow.
-- You will be able to interact with others in a team. Robotics is an interdisciplinary field, and robotic systems can be complex for just one person to handle. Teamwork is an essential part of completing a successful robotics project.
-- You will be able to organize and document your work effectively to make a competitive portfolio and be able to handle a complex project in the future.
+- Explain the fundamentals of robot motion, including methods to express position, orientation, and velocity, as well as forward, inverse, and velocity kinematics.
+- Apply prior knowledge of vectors, matrices, physics, and programming to solve practical robotics problems.
+- Translate concepts such as screw theory applications to various robotic systems, including soft and continuum robots.
+- Utilize technical tools (Python, MATLAB, ROS, RoboDK, etc.) to implement algorithms, develop code, and analyze robotic performance.
+- Analyze how the different components of a robot, such as sensors and controllers, interact to perform coordinated tasks and respond to environmental inputs.
+- Collaborate effectively in teams to design, test, and refine robotic solutions within an interdisciplinary framework.
+- Document and organize work in a professional manner to develop a competitive portfolio and prepare for complex engineering projects.
+
+## Learning Outcomes
+
 
 ## Resources
 ### Recommended Textbooks:
