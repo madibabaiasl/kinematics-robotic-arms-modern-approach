@@ -13,7 +13,12 @@ The Czech playwright Karel Capek is credited with coining the word "robot" in hi
 - Document and organize work in a professional manner to develop a competitive portfolio and prepare for complex engineering projects.
 
 ## Learning Outcomes
-
+Upon successful completion of this course, students will be able to:
+- Define key concepts in robotics, including degrees of freedom, orientation, and pose.
+- Apply forward, inverse, and velocity kinematics to model and analyze robotic manipulators.
+- Design and implement robotic motion tasks using simulation and real hardware under the Robot Operating System (ROS2).
+- Evaluate robotic performance using analytical and computational tools such as MATLAB, Python, and RoboDK.
+- Collaborate in multidisciplinary teams to plan, execute, and document robotics projects effectively.
 
 ## Resources
 ### Recommended Textbooks:
