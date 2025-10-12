@@ -26,7 +26,7 @@ Upon successful completion of this course, students will be able to:
 - Robotics, Vision and Control: Fundamental Algorithms in Python, Peter Corke, 2023, Springer Nature
 - A mathematical introduction to robotic manipulation, Murray, Li and Sastry, 1994, CRC press
 
-Note that the material that I will teach is a combination of many sources (some are not listed above and some are developed by myself) and I will give the required text to you. The books above can be used as a reference. Start exploring the course by going to the wiki pages for this course:
+The course materials are drawn from a combination of established sources and instructor-developed content. The listed textbooks serve as references to supplement lectures and exercises. Additional readings and materials will be provided through the course wiki:
 
 https://github.com/madibabaiasl/kinematics-robotic-arms-modern-approach/wiki
 
