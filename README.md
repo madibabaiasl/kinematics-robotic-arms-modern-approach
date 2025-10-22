@@ -14,10 +14,12 @@ What you’ll get out of it:
 If you’re eyeing internships in automation or research, or you just want to bring your own robotic ideas to life, this course gives you the fundamentals people expect and the confidence to use them. We’ll turn “robots” from a buzzword into a system you can describe, predict, and control.
 
 ## Course Objectives
-- Explain the fundamentals of robot motion, including methods to express position, orientation, and velocity, as well as forward, inverse, and velocity kinematics.
-- Apply prior knowledge of vectors, matrices, physics, and programming to solve practical robotics problems.
+By the end of this course, we’ll have built real, hands-on intuition for robotics, and you’ll be able to:
+
+- Speak “robot.” Describe position, orientation, and velocity with confidence, and compute forward, inverse, and velocity kinematics to make manipulators move on purpose.
+- Leverage your toolkit. Use vectors, matrices, physics, and programming to crack open practical robotics problems, not just on paper, but in code and on hardware.
 - Translate concepts such as screw theory applications to various robotic systems, including soft and continuum robots.
-- Utilize technical tools (Python, MATLAB, ROS, RoboDK, etc.) to implement algorithms, develop code, and analyze robotic performance.
+- Build with real tools. Use Python, MATLAB, ROS2, and RoboDK to implement algorithms, write clean code, simulate, and analyze robot performance.
 - Analyze how the different components of a robot, such as sensors and controllers, interact to perform coordinated tasks and respond to environmental inputs.
 - Collaborate effectively in teams to design, test, and refine robotic solutions within an interdisciplinary framework.
 - Document and organize work in a professional manner to develop a competitive portfolio and prepare for complex engineering projects.
