@@ -11,6 +11,8 @@ What you’ll get out of it:
 - Plan, execute, and debug motions using sensors and controllers.
 - Walk away with a portfolio of projects that actually move a robot.
 
+If you’re eyeing internships in automation or research, or you just want to bring your own robotic ideas to life, this course gives you the fundamentals people expect and the confidence to use them. We’ll turn “robots” from a buzzword into a system you can describe, predict, and control.
+
 ## Course Objectives
 - Explain the fundamentals of robot motion, including methods to express position, orientation, and velocity, as well as forward, inverse, and velocity kinematics.
 - Apply prior knowledge of vectors, matrices, physics, and programming to solve practical robotics problems.
