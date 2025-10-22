@@ -25,7 +25,8 @@ By the end of this course, we’ll have built real, hands-on intuition for robot
 - Document and organize work in a professional manner to develop a competitive portfolio and prepare for complex engineering projects.
 
 ## Learning Outcomes
-Upon successful completion of this course, students will be able to:
+By the end of the course, you and I will have put in enough reps that you’ll be able to:
+
 - Define key concepts in robotics, including degrees of freedom, orientation, and pose.
 - Apply forward, inverse, and velocity kinematics to model and analyze robotic manipulators.
 - Design and implement robotic motion tasks using simulation and real hardware under the Robot Operating System (ROS2).
@@ -38,7 +39,7 @@ Upon successful completion of this course, students will be able to:
 - Robotics, Vision and Control: Fundamental Algorithms in Python, Peter Corke, 2023, Springer Nature
 - A mathematical introduction to robotic manipulation, Murray, Li and Sastry, 1994, CRC press
 
-The course materials are drawn from a combination of established sources and instructor-developed content. The listed textbooks serve as references to supplement lectures and exercises. Additional readings and materials will be provided through the course wiki:
+The course materials are drawn from a combination of established sources and content that I developed myself. The listed textbooks serve as references to supplement lectures and exercises. Additional readings and materials will be provided through the course wiki:
 
 https://github.com/madibabaiasl/kinematics-robotic-arms-modern-approach/wiki
 
