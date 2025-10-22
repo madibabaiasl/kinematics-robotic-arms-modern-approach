@@ -1,7 +1,15 @@
-## Course Description
+## Why Take This Course?
+Robots aren’t just sci-fi. They run warehouses, assist in surgeries, harvest crops, build houses, and even entertain. In this course, you and I will unpack the core ideas that let robots sense, plan, and act so they do useful work in the real world. We’ll keep it practical: we’ll learn a concept, then use it to move an actual robotic arm with ROS2.
 
-The Czech playwright Karel Capek is credited with coining the word "robot" in his 1920 play, R.U.R. (Rossum's Universal Robots), but the concept of robots as machines that can sense, plan, and act has been around for centuries. For example, the ancient Greeks created stories about automatons, which were self-moving machines that could perform tasks. The Unimate was the first industrial robotic arm that was used for welding, painting, and assembly. Since then, robots have been developed for a wide range of other applications, including warehousing & logistics, manufacturing, healthcare, agriculture, construction, cleaning, and even entertainment. Although the field of robotics is still under development (it is an active research area), the basic principles of robot design (modeling, perception, planning, and control) are well understood. This course introduces the foundational principles of robotics, including degrees of freedom, orientation, pose, and the kinematics of robotic manipulators (forward, inverse, and velocity kinematics). Students learn these concepts through both theoretical analysis and practical exercises using a robotic arm operated via the Robot Operating System (ROS2).
+By the end, you’ll be able to model a robot, describe its degrees of freedom, pose, and orientation, and compute forward, inverse, and velocity kinematics to plan motion that’s safe and purposeful. We’ll practice a full stack of robotics thinking through a mix of short theory bursts and hands-on projects.
 
+What you’ll get out of it:
+
+- Speak “robot”: frames, pose, orientation, and Degrees of Freedom DOFs with confidence.
+- Build real intuition for kinematics (forward, inverse, velocity) and why they matter.
+- Write and run ROS2 code to command a manipulator in simulation and on hardware.
+- Plan, execute, and debug motions using sensors and controllers.
+- Walk away with a portfolio of projects that actually move a robot.
 
 ## Course Objectives
 - Explain the fundamentals of robot motion, including methods to express position, orientation, and velocity, as well as forward, inverse, and velocity kinematics.
