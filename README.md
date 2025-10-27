@@ -16,7 +16,7 @@ If you’re eyeing internships in automation or research, or you just want to br
 ## Course Objectives
 By the end of this course, we’ll have built real, hands-on intuition for robotics, and you’ll be able to:
 
-- Speak “robot.” Describe position, orientation, and velocity with confidence, and compute forward, inverse, and velocity kinematics to make manipulators move on purpose.
+- Speak “robot.” Describe position, orientation, and velocity with confidence, and compute screw-theory-based forward, inverse, and velocity kinematics to make manipulators move on purpose.
 - Leverage your toolkit. Use vectors, matrices, physics, and programming to crack open practical robotics problems, not just on paper, but in code and on hardware.
 - Translate concepts such as screw theory applications to various robotic systems, including soft and continuum robots.
 - Build with real tools. Use Python, MATLAB, ROS2, and RoboDK to implement algorithms, write clean code, simulate, and analyze robot performance.
