@@ -6,7 +6,7 @@ By the end, you’ll be able to model a robot, describe its degrees of freedom, 
 What you’ll get out of it:
 
 - Speak “robot”: frames, pose, orientation, and Degrees of Freedom DOFs with confidence.
-- Build real intuition for kinematics (forward, inverse, velocity) and why they matter.
+- Build real intuition for screw-theory-based kinematics (forward, inverse, velocity) and why they matter.
 - Write and run ROS2 code to command a manipulator in simulation and on hardware.
 - Plan, execute, and debug motions using sensors and controllers.
 - Walk away with a portfolio of projects that actually move a robot.
