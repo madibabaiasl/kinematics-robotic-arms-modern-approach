@@ -14,24 +14,24 @@ What you’ll get out of it:
 If you’re eyeing internships in automation or research, or you just want to bring your own robotic ideas to life, this course gives you the fundamentals people expect and the confidence to use them. We’ll turn “robots” from a buzzword into a system you can describe, predict, and control.
 
 ## Course Objectives
-By the end of this course, we’ll have built real, hands-on intuition for robotics, and you’ll be able to:
+By the end of this course, we will have:
 
-- Speak “robot.” Describe position, orientation, and velocity with confidence, and compute screw-theory-based forward, inverse, and velocity kinematics to make manipulators move on purpose.
-- Leverage your toolkit. Use vectors, matrices, physics, and programming to crack open practical robotics problems, not just on paper, but in code and on hardware.
-- Translate concepts such as screw theory applications to various robotic systems, including soft and continuum robots.
-- Build with real tools. Use Python, MATLAB, ROS2, and RoboDK to implement algorithms, write clean code, simulate, and analyze robot performance.
-- Analyze how the different components of a robot, such as sensors and controllers, interact to perform coordinated tasks and respond to environmental inputs.
-- Collaborate effectively in teams to design, test, and refine robotic solutions within an interdisciplinary framework.
-- Document and organize work in a professional manner to develop a competitive portfolio and prepare for complex engineering projects.
+- Built intuitive and mathematical understanding of how robots represent position, orientation, and motion.
+- Explored screw-theory-based formulations of forward, inverse, and velocity kinematics.
+- Practiced applying mathematics, programming, and physics to analyze and control real robotic systems.
+- Integrated tools such as ROS2, Python, MATLAB, and RoboDK to connect simulation with hardware.
+- Investigated how sensors and control loops enable autonomous, reactive behavior.
+- Worked collaboratively to design, build, and document robotic systems with professional clarity.
+
 
 ## Learning Outcomes
-By the end of the course, you and I will have put in enough reps that you’ll be able to:
+By the end of the course, you will be able to:
 
-- Define key concepts in robotics, including degrees of freedom, orientation, and pose.
-- Apply screw-theory-based forward, inverse, and velocity kinematics to model and analyze robotic manipulators.
-- Design and implement robotic motion tasks using simulation and real hardware under the Robot Operating System (ROS2).
-- Evaluate robotic performance using analytical and computational tools such as MATLAB, Python, and RoboDK.
-- Collaborate in multidisciplinary teams to plan, execute, and document robotics projects effectively.
+- Define and explain key robotic concepts such as degrees of freedom, orientation, and pose.
+- Compute and apply forward, inverse, and velocity kinematics using screw theory.
+- Implement robotic motion tasks in simulation and hardware using ROS2, Python, and RoboDK.
+- Design, document, and present a robotics project that integrates sensing, actuation, and control.
+- Collaborate effectively within a multidisciplinary team to solve open-ended robotics challenges.
 
 ## Resources
 ### Recommended Textbooks:
